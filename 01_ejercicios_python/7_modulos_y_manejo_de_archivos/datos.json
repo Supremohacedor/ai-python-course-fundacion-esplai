@@ -1,0 +1,8 @@
+{
+    "nombre": "Sara",
+    "estudiante": true,
+    "cursos": [
+        "Python",
+        "ASIR"
+    ]
+}

